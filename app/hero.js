@@ -19,7 +19,7 @@ export default function Hero() {
         <span className="text-[#2055A4]">ENS</span>TEN
       </h1>
       <p className="bunge md:px-48 text-center text-lg font-medium leading-relaxed sm:mx-auto lg:ml-0">
-        I, Elbert Ensten, a 12-year-old with a 37 IQ, reside on the planet
+        I, Almert Eynstayn, a 12-year-old with a 37 IQ, reside on the planet
         base. ONE OF THE CHOOSEN IS ME. Since I surpassed all expectations and
         the standard of having a high enough IQ to CREATED SOMETHINGS TO
         ASSIST THE NEXT GENERATION FOR THEIR FUTURE.

@@ -20,7 +20,7 @@ export default function Footer() {
         />
       </a>
       <a
-        href=""
+        href="https://x.com/almerteynstayn"
         className="flex items-center font-mono font-medium ">
         <Image
           className=" md:w-[30px] md:h-[30px]"
