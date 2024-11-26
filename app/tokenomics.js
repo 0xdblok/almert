@@ -7,7 +7,7 @@ export default function Tokenomics() {
     <div className="pt-36 ">
     <div className="mx-6 bg-[#00C9FE] lg:mx-48 xl:mx-66  border-4 border-black  rounded-lg ">
       <h1 className="bunge text-center text-nowrap text-4xl xl:text-5xl">
-        Tokenomics
+      ᴛᴏᴋᴇɴᴏᴍɪᴄꜱ
       </h1>
     </div>
     <div className="lg:flex justify-center gap-4 w-full pt-8 ">
@@ -31,19 +31,19 @@ export default function Tokenomics() {
         {" "}
         <div className="w-full bg-[#FCB01C] ">
           <h1 className="bunge text-center  text-xl xl:text-2xl">
-            TOTAL SUPPLY
+          ᴛᴏᴛᴀʟ ꜱᴜᴘᴘʟʏ
           </h1>
           <p className="text-center bunge">1.000.000.000 </p>
-          <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">LP</h1>
+          <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">ʟᴘ</h1>
           <p className="text-center bunge">80% </p>
           <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">
-            COMMUNITY
+          ᴄᴏᴍᴍᴜɴɪᴛʏ
           </h1>
           <p className="text-center bunge">15% </p>
 
-          <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">DEV</h1>
+          <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">ᴅᴇᴠ</h1>
           <p className="text-center bunge">5% </p>
-          <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">CA</h1>
+          <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">ᴄᴀ</h1>
           <p className="text-center bunge text-wrap">
          
           </p>
