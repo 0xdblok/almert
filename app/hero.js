@@ -15,8 +15,8 @@ export default function Hero() {
     </div>{" "}
     <div className="space-y-4 flex-1 sm:text-center lg:text-left ">
       <h1 className="bunge text-center  text-4xl xl:text-5xl">
-        ALM<span className="text-[#2055A4]">ERT</span>{" "}
-        <span className="text-[#2055A4]">EYNS</span>TAYN
+      𝘼𝙇𝙈<span className="text-[#2055A4]">𝙀𝙍𝙏</span>{" "}
+        <span className="text-[#2055A4]">  𝙀𝙔𝙉 </span>𝙎𝙏𝘼𝙔𝙉
       </h1>
       <p className="bunge  md:px-48 text-center text-lg font-medium leading-relaxed sm:mx-auto lg:ml-0">
       ɪ, ᴀʟᴍᴇʀᴛ ᴇʏɴꜱᴛᴀʏɴ (ɴᴏᴛ ᴛᴏ ʙᴇ ᴄᴏɴꜰᴜꜱᴇᴅ ᴡɪᴛʜ ᴛʜᴀᴛ ᴏᴛʜᴇʀ ɢᴜʏ), ᴅɪꜱᴄᴏᴠᴇʀᴇᴅ ꜱᴏᴍᴇᴛʜɪɴɢ ʀᴇᴠᴏʟᴜᴛɪᴏɴᴀʀʏ ᴡʜɪʟᴇ ᴇᴀᴛɪɴɢ ᴄʀᴀʏᴏɴꜱ ɪɴ ᴍʏ ʙᴀꜱᴇ ʙʟᴏᴄᴋᴄʜᴀɪɴ ᴛʀᴇᴇʜᴏᴜꜱᴇ. ᴡɪᴛʜ ᴍʏ ᴄᴇʀᴛɪꜰɪᴇᴅ 37 ɪQ (ᴛᴇꜱᴛᴇᴅ ʙʏ ᴍʏ ᴘᴇᴛ ʜᴀᴍꜱᴛᴇʀ), ɪ ʜᴀᴠᴇ ʙᴇᴇɴ ᴄʜᴏꜱᴇɴ ᴛᴏ ᴄʀᴇᴀᴛᴇ ꜱᴏᴍᴇᴛʜɪɴɢ ᴛʜᴀᴛ ᴡɪʟʟ ᴄʜᴀɴɢᴇ ᴇᴠᴇʀʏᴛʜɪɴɢ, ᴍᴀʏʙᴇ.
