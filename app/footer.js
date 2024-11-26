@@ -8,17 +8,7 @@ export default function Footer() {
     <div className="flex pt-6 justify-end pb-6 px-8">
     <div className="flex gap-2">
       {" "}
-      <a
-        href=""
-        className="flex items-center font-mono font-medium">
-        <Image
-          className=" md:w-[39px] md:h-[39px]"
-          alt="hero"
-          src={telegram}
-          width="38"
-          height="38"
-        />
-      </a>
+
       <a
         href="https://x.com/almerteynstayn"
         className="flex items-center font-mono font-medium ">

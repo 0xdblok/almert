@@ -39,7 +39,7 @@ export default function Tokenomics() {
         
           <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">ᴄᴀ</h1>
           <p className="text-center bunge text-wrap">
-         
+          0xE4Ba30B9b0E516b081ebE605701078c25cf3a228
           </p>
         </div>
       </div>
