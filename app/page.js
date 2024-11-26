@@ -19,8 +19,8 @@ export default function Home() {
         className="w-full h-full  "
         src={banner}
         alt="Nikula Tisla"
-        width={350}
-        height={350}
+        width={1170}
+        height={584}
       /></div>
    <Tokenomics />
 
