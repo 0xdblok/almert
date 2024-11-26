@@ -15,8 +15,8 @@ export default function Hero() {
     </div>{" "}
     <div className="space-y-4 flex-1 sm:text-center lg:text-left ">
       <h1 className="bunge text-center  text-4xl xl:text-5xl">
-        EL<span className="text-[#2055A4]">BERT</span>{" "}
-        <span className="text-[#2055A4]">ENS</span>TEN
+        ALM<span className="text-[#2055A4]">ERT</span>{" "}
+        <span className="text-[#2055A4]">EYNS</span>TAYN
       </h1>
       <p className="bunge md:px-48 text-center text-lg font-medium leading-relaxed sm:mx-auto lg:ml-0">
       I, Almert Eynstayn (not to be confused with that other guy), discovered something revolutionary while eating crayons in my Base blockchain treehouse. With my certified 37 IQ (tested by my pet hamster), I have been CHOSEN to create something that will change everything, maybe.
