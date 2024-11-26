@@ -11,13 +11,13 @@ export default function Footer() {
 
       <a
         href="https://x.com/almerteynstayn"
-        className="flex items-center font-mono font-medium ">
+        className="flex items-center font-mono font-medium text-blue-600 hover:underline ">
         <Image
-          className=" md:w-[30px] md:h-[30px]"
+          className=" md:w-[35px] md:h-[35px]"
           alt="hero"
           src={x}
-          width="35"
-          height="35"
+          width="40"
+          height="40"
         />
       </a>{" "}
     </div>
