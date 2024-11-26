@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "./logo.jpg";
+import logo from "./logo.png";
 import banner from "./bannner.png";
 import Hero from "./hero";
 import Tokenomics from "./tokenomics";
