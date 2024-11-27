@@ -12,7 +12,7 @@ export default function Home() {
     <div className="bg-[#FCB01C] md:px-24 px-12">
     <Hero />
     <div className="flex justify-center">
-    <a href="https://jup.ag/swap/DRAGczYTThGivqVPxnTX5rQddFj4tSPBgy7X6zoHpump-SOL" className="relative z-0 h-14 flex justify-center items-center rounded-full bg-[#00C8FF] px-6 text-neutral-50 after:absolute after:left-0 after:top-0 after:-z-10 after:h-full after:w-full after:rounded-full after:bg-[#34a5c5] hover:after:scale-x-125 hover:after:scale-y-150 hover:after:opacity-0 hover:after:transition hover:after:duration-500">ʙᴜʏ ᴏɴ RAYDIUM</a>
+    <a href="https://jup.ag/swap/DRAGczYTThGivqVPxnTX5rQddFj4tSPBgy7X6zoHpump-SOL" className="relative z-0 h-14 flex justify-center items-center rounded-full bg-[#00C8FF] px-6 text-neutral-50 after:absolute after:left-0 after:top-0 after:-z-10 after:h-full after:w-full after:rounded-full after:bg-[#34a5c5] hover:after:scale-x-125 hover:after:scale-y-150 hover:after:opacity-0 hover:after:transition hover:after:duration-500">ʙᴜʏ ᴏɴ JUPITER</a>
   </div> 
   <div className="mt-20 mx-4 border-4 w-full h-full">
   <Image
