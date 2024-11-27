@@ -8,8 +8,8 @@ export default function Hero() {
       <Image
         className="mx-auto sm:w-10/12 lg:w-2/3 "
         src={logo}
-        alt="Nikula Tisla"
-        width={400}
+        alt="33"
+                width={400}
         height={400}
       />{" "}
     </div>{" "}
