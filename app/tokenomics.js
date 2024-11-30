@@ -25,8 +25,8 @@ export default function Tokenomics() {
           <p className="text-center bunge">100% </p> <p className="text-center test-base  font-bold bunge">ʟᴘ ʙᴜʀɴ</p>
         
           <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">ᴄᴀ</h1>
-          <p className="text-center  break-words px-4">
-
+          <p className="text-center  break-words px-4 pb-4">
+TBA
           </p>
         </div>
       </div>
