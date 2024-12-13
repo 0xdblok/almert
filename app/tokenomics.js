@@ -20,7 +20,7 @@ export default function Tokenomics() {
           <h1 className="bunge text-center  text-xl xl:text-2xl">
           ᴛᴏᴛᴀʟ ꜱᴜᴘᴘʟʏ
           </h1>
-          <p className="text-center bunge">1.000.000.000 </p>
+          <p className="text-center bunge"> </p>
    
         
           <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">ᴄᴀ</h1>

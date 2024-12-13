@@ -9,6 +9,17 @@ export default function Footer() {
     <div className="flex gap-2">
 
      
+    <a
+        href=""
+        className="flex items-center font-mono font-medium text-blue-600 hover:underline ">
+        <Image
+          className=" md:w-[35px] md:h-[35px]"
+          alt="hero"
+          src={telegram}
+          width="32"
+          height="32"
+        />
+      </a>{" "}
       {" "}
 
       <a
@@ -18,8 +29,8 @@ export default function Footer() {
           className=" md:w-[35px] md:h-[35px]"
           alt="hero"
           src={x}
-          width="40"
-          height="40"
+          width="30"
+          height="30"
         />
       </a>{" "}
     </div>
