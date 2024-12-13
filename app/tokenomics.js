@@ -26,7 +26,7 @@ export default function Tokenomics() {
         
           <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">ᴄᴀ</h1>
           <p className="text-center  break-words px-4 pb-4">
-          0xE3160195B683AaF14f5d5f5FE17f4a745A3C1864
+        
           </p>
         </div>
       </div>
