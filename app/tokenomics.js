@@ -11,10 +11,8 @@ export default function Tokenomics() {
       </h1>
     </div>
     <div className="lg:flex justify-center gap-4 w-full pt-8 ">
-      <div className="lg:w-1/2">
-    
-      </div>
-      <div className="lg:w-1/2 flex bg-[#FCB01C] items-center border-4 border-black rounded-lg mt-6 lg:mt-0">
+     
+      <div className=" w-full flex bg-[#FCB01C] items-center border-4 border-black rounded-lg mt-6 lg:mt-0">
         {" "}
         <div className="w-full bg-[#FCB01C] font-serif ">
           <h1 className="bunge text-center  text-xl xl:text-2xl">
